@@ -1,0 +1,18 @@
+{
+  "name": "first_terminal_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greet.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.1.1"
+  }
+}
